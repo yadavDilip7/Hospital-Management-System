@@ -1,7 +1,10 @@
 # Hospital-Management-System
 HealthCare Management system is the system that help to manager the information related to healthcare  more efficiently like  registration of their patients and management of appointments, records of patients etc.
+
 The HMS simplifies the work of healthcare professional and their interaction with their patients 
-Moreover all the activities in the hospital can be recorded systematically in the digital form
+
+Moreover all the activities in the hospital can be recorded systematically in the digital form.
+
 The hms system automates the management and reduce the paper works.
 
 This website is made using Html ,CSS, Bootstrap , JavaScript, Java,Servlet ,Mysql and JDBC.
